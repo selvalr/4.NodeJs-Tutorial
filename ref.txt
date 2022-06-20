@@ -1,0 +1,18 @@
+what is node js....?
+        * node.js is a open-source,cross-platform javascript  runtime environment and library for running web application outside the client browser
+        *it is used for creating server-side web application
+        * Node.js is a perfect for data-intensive application as it uses an asynchronous,event-driven model.
+        * Node.js is an open source server environment
+        *Node.js is free
+        *Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
+        *Node.js uses JavaScript on the server
+
+###Node Developed:
+        * node develpoed by ryan dahl in 2009
+
+
+why node use?
+        * node.js is really fast
+        *Node Package Manager has over 50,000 bundles for at the developers disposal
+
+        
